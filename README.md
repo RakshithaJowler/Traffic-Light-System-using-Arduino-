@@ -43,7 +43,7 @@ void setup()
   pinMode(green, OUTPUT);
 }
 
-void loop() 
+void loop()  
 
 {
   digitalWrite(green, HIGH);
