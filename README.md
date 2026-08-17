@@ -65,6 +65,4 @@ void loop()
 
 ![Traffic Light System](./Screenshot 2026-08-17 223907.png)
 
-
-
 - 
