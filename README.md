@@ -20,6 +20,7 @@ The Arduino controls three LEDs connected to digital pins 13, 12, and 11. The gr
 ## Programming
 
 Arduino C/C++
+
 int red = 13;
 int yellow = 12;
 int green = 11;
