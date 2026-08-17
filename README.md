@@ -21,7 +21,7 @@ The Arduino controls three LEDs connected to digital pins 13, 12, and 11. The gr
 
 ![Traffic Light System] (./[Screenshot 2026-08-17 223930.png](https://github.com/RakshithaJowler/Traffic-Light-System-using-Arduino-/blob/main/Screenshot%202026-08-17%20223930.png))
 
-![Traffic Light System] 
+![Traffic Light System] https://github.com/RakshithaJowler/Traffic-Light-System-using-Arduino-/commit/f319498bffd50e1d5b271d2d4d3dd07d0f85310a
 
 ## Programming
 
